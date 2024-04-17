@@ -25,7 +25,18 @@ Let's collaborate and embark on a journey towards innovation, security, and digi
 3. [Cybersecurity Essential (CIP Cyber)](https://drive.google.com/file/d/1veJLXgsnOvojSE1GxtHYKrSkVH0g3Eiw/view?usp=drive_link)
 5. [Basic of JavaScript (Kandi)](https://drive.google.com/file/d/1NgIDClnD8w0sl50tosXAw6JIg5YSRJxU/view?usp=drive_link)
 6. [Cybersecurity Industry Concept For Beginners (EH Academy)](https://drive.google.com/file/d/14GdP1hTdwTkUvvEP3C3RvW6TFARq98PY/view?usp=drive_link)
-7. [Information Security Threats & Attack Vectors (Ethical Hacking University App)](https://drive.google.com/file/d/14GdP1hTdwTkUvvEP3C3RvW6TFARq98PY/view?usp=drive_link)
+7. [Information Security Threats & Attack Vectors (Ethical Hacking University App)](https://drive.google.com/file/d/1djwvnVjvUb5cdu00x0J70gbzhjczC_Ji/view?usp=drive_link)
+8. [Metasploit - Beginner to Advance (Udemy)](https://drive.google.com/file/d/1TG7qGXoGavBWQG9Uj1S7wEfGbzehx6_W/view?usp=drive_link)
+9. [Ethical Hacking - Beginner to Advance (Udemy)](https://drive.google.com/file/d/18Z2vkwYy4n2B_i6UTLh5X8OwgMqydebt/view?usp=drive_link)
+10. [Ethical Hacking - Zero to Hero (Udemy)](https://drive.google.com/file/d/1SRUzZmeqq1OfdfbIqUVe9DlyKQG85bqN/view?usp=drive_link)
+11. [Cyber Security Master Class (Udemy)](https://drive.google.com/file/d/1ZIFWwFDQcsgBJuQiXw1UXfJHzVELCksx/view?usp=drive_link)
+12. [Penetration Testing & Ethical Hacking (Cybrary)](https://drive.google.com/file/d/1ZIFWwFDQcsgBJuQiXw1UXfJHzVELCksx/view?usp=drive_link)
+13. [Penetration Testing & Ethical Hacking (Cybrary)](https://drive.google.com/file/d/1ZIFWwFDQcsgBJuQiXw1UXfJHzVELCksx/view?usp=drive_link)
+14. [Penetration Testing & Ethical Hacking (Cybrary)](https://drive.google.com/file/d/1ZIFWwFDQcsgBJuQiXw1UXfJHzVELCksx/view?usp=drive_link)
+15. [Introduction to Dark Web, Anonymity, and Cryptocurrency (Codered)](https://drive.google.com/file/d/1ZIFWwFDQcsgBJuQiXw1UXfJHzVELCksx/view?usp=drive_link)
+
+
+
 
 
 <h2>CONNECT WITH ME</h3>
