@@ -15,7 +15,7 @@ Whether I'm unraveling complex cybersecurity puzzles, shaping user-centric desig
 Let's collaborate and embark on a journey towards innovation, security, and digital literacy together.
 
 <h2>MY PROJECTS</h2>
-[Projects](https://www.google.com)
+[Ethical Hacking](https://www.google.com)
 
 <h2>CONNECT WITH ME</h3>
 
