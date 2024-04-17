@@ -20,10 +20,9 @@ Let's collaborate and embark on a journey towards innovation, security, and digi
 
 <h2>CERTIFICATIONS</h2>
 
-1. [Certified Ethical Hacker (EC-Council)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
-2. [Introduction to Cybersecurity (Cisco)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
-3. [Cybersecurity Essential (CIP Cyber)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
-4. [Basic of JavaScript (Kandi)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
+1. [Certified Ethical Hacker (EC-Council)](https://drive.google.com/file/d/15DiggQioaEfwTKcpBmf-L21jNADmew7d/view?usp=drive_link)
+2. [Introduction to Cybersecurity (Cisco)](https://drive.google.com/file/d/1w6Hdx74-TCAg_6ySqIyo7lwEz25if3YI/view?usp=drive_link)
+3. [Cybersecurity Essential (CIP Cyber)](https://drive.google.com/file/d/1veJLXgsnOvojSE1GxtHYKrSkVH0g3Eiw/view?usp=drive_link)
 5. [Basic of JavaScript (Kandi)](https://drive.google.com/file/d/14GdP1hTdwTkUvvEP3C3RvW6TFARq98PY/view?usp=drive_link)
 
 
