@@ -32,7 +32,7 @@ Let's collaborate and embark on a journey towards innovation, security, and digi
 11. [Ethical Hacking - Zero to Hero (Udemy)](https://drive.google.com/file/d/1SRUzZmeqq1OfdfbIqUVe9DlyKQG85bqN/view?usp=drive_link)
 12. [Cyber Security Master Class (Udemy)](https://drive.google.com/file/d/1ZIFWwFDQcsgBJuQiXw1UXfJHzVELCksx/view?usp=drive_link)
 13. [Penetration Testing & Ethical Hacking (Cybrary)](https://drive.google.com/file/d/1ZIFWwFDQcsgBJuQiXw1UXfJHzVELCksx/view?usp=drive_link)
-14. [Penetration Testing & Ethical Hacking (Cybrary)](https://drive.google.com/file/d/1ZIFWwFDQcsgBJuQiXw1UXfJHzVELCksx/view?usp=drive_link)
+14. [Advanced Penetration Testing (Cybrary)](https://drive.google.com/file/d/1n3d6uhzCpkTVS6DAHTjdNpCkfi6I-dEa/view?usp=drive_link)
 15. [Introduction to Dark Web, Anonymity, and Cryptocurrency (Codered)](https://drive.google.com/file/d/1y4_SYKBeK89on61cHF5zlKpHir8phJvJ/view?usp=drive_link)
 16. [The Fundamentals of Digital Marketing (Google Digital Garage)](https://drive.google.com/file/d/1oBYlg4dWkj58ZfGnPwNNe3uUM5t26KBm/view?usp=drive_link)
 17. [Ethical Hacking Training (Master of Project Academy)](https://drive.google.com/file/d/1hrGm6BHeZc_hpiRSZAfyoF4BQJ0gGbZB/view?usp=drive_link)
