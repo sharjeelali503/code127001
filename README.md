@@ -15,7 +15,13 @@ Whether I'm unraveling complex cybersecurity puzzles, shaping user-centric desig
 Let's collaborate and embark on a journey towards innovation, security, and digital literacy together.
 
 <h2>MY PROJECTS</h2>
-[Ethical Hacking](https://www.google.com)
+
+[Ethical Hacking](https://www.test.com)
+
+<h2>CERTIFICATIONS</h2>
+
+1. CEH v9 (EC-Council)
+2. [Introduction to Cyber Security](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
 
 <h2>CONNECT WITH ME</h3>
 
