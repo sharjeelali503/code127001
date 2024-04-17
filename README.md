@@ -14,7 +14,7 @@ Whether I'm unraveling complex cybersecurity puzzles, shaping user-centric desig
 
 Let's collaborate and embark on a journey towards innovation, security, and digital literacy together.
 
-[Projects]
+[Projects](https://www.google.com)
 
 <h3>SOCAIL MEDIA</h3>
 
