@@ -16,3 +16,10 @@ Whether I'm unraveling complex cybersecurity puzzles, shaping user-centric desig
 
 Let's collaborate and embark on a journey towards innovation, security, and digital literacy together.
 
+**>>> SOCAIL MEDIA <<<**
+
+Facebook Page: https://www.facebook.com/code127.0.0.11/about
+Instagram ID:  sharjeel.ali290
+Whatsapp: +92 309 1021355
+Email: sharjeel.ali503@gmail.com
+
