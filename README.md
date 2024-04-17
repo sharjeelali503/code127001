@@ -17,7 +17,7 @@ Let's collaborate and embark on a journey towards innovation, security, and digi
 <h2>MY PROJECTS</h2>
 [Projects](https://www.google.com)
 
-<h3>CONNECT WITH ME</h3>
+<h2>CONNECT WITH ME</h3>
 
 [<img align="left" alt="Sharjeel Ali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">](https://www.facebook.com/code127.0.0.11/)
 [<img align="left" alt="Sharjeel Ali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/sharjeel.ali290/?hl=en)
