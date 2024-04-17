@@ -16,7 +16,7 @@ Let's collaborate and embark on a journey towards innovation, security, and digi
 
 <h2>MY PROJECTS</h2>
 
-[Ethical Hacking](https://www.test.com)
+[]()
 
 <h2>CERTIFICATIONS</h2>
 
