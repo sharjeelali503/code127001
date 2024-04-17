@@ -25,6 +25,7 @@ Let's collaborate and embark on a journey towards innovation, security, and digi
 3. [Cybersecurity Essential (CIP Cyber)](https://drive.google.com/file/d/1veJLXgsnOvojSE1GxtHYKrSkVH0g3Eiw/view?usp=drive_link)
 5. [Basic of JavaScript (Kandi)](https://drive.google.com/file/d/1NgIDClnD8w0sl50tosXAw6JIg5YSRJxU/view?usp=drive_link)
 6. [Cybersecurity Industry Concept For Beginners (EH Academy)](https://drive.google.com/file/d/14GdP1hTdwTkUvvEP3C3RvW6TFARq98PY/view?usp=drive_link)
+7. [Information Security Threats & Attack Vectors (Ethical Hacking University App)](https://drive.google.com/file/d/14GdP1hTdwTkUvvEP3C3RvW6TFARq98PY/view?usp=drive_link)
 
 
 <h2>CONNECT WITH ME</h3>
