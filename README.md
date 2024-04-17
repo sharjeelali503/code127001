@@ -1,4 +1,4 @@
-<h1 style="color: darkbrown;">CODE127001</h1>
+<h1 style="color: brown;">CODE127001</h1>
 
 <h3>🔒 Certified Ethical Hacker | 💻 Web Designer | 🎓 IT Instructor</h3>
 
