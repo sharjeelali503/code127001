@@ -23,6 +23,8 @@ Let's collaborate and embark on a journey towards innovation, security, and digi
 1. [Certified Ethical Hacker (EC-Council)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
 2. [Introduction to Cybersecurity (Cisco)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
 3. [Cybersecurity Essential (CIP Cyber)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
+4. [Basic of JavaScript (Kandi)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
+5. [Basic of JavaScript (Kandi)](https://drive.google.com/file/d/14GdP1hTdwTkUvvEP3C3RvW6TFARq98PY/view?usp=drive_link)
 
 
 <h2>CONNECT WITH ME</h3>
