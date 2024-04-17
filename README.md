@@ -21,7 +21,9 @@ Let's collaborate and embark on a journey towards innovation, security, and digi
 <h2>CERTIFICATIONS</h2>
 
 1. [Certified Ethical Hacker (EC-Council)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
-2. [Introduction to Cyber Security (Cisco)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
+2. [Introduction to Cybersecurity (Cisco)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
+3. [Cybersecurity Essential (CIP Cyber)](https://drive.google.com/drive/folders/1qbQWQLELN_Xj4O-d5EkXKfb9kbN0Ksw0?usp=drive_link)
+
 
 <h2>CONNECT WITH ME</h3>
 
