@@ -19,8 +19,7 @@ Let's collaborate and embark on a journey towards innovation, security, and digi
 <h3>SOCAIL MEDIA</h3>
 
 [<img align="left" alt="Sharjeel Ali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">](https://www.facebook.com/code127.0.0.11/)
-[<img align="left" alt="Sharjeel Ali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/sharjeel.ali290/?hl=en)
-<div>Instagram ID:  sharjeel.ali290</div>
-<div>Whatsapp: +92 309 1021355</div>
+[<img align="left" alt="Sharjeel Ali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/sharjeel.ali290/?hl=en)
+[<img align="left" alt="Sharjeel Ali | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg">](https://api.whatsapp.com/send?phone=923091021355)
 <div>Email: sharjeel.ali503@gmail.com</div>
 
