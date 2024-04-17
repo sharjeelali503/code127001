@@ -1,10 +1,8 @@
-**CODE127001**
+<h1>CODE127001</h1>
 
-Certainly! Here's a draft for your "About Me" description:
+<h3>🔒 Certified Ethical Hacker | 💻 Web Designer | 🎓 IT Instructor</h3>
 
-**🔒 Certified Ethical Hacker | 💻 Web Designer | 🎓 IT Instructor**
-
-Hello there! I'm Sharjeel Ali, a passionate Certified Ethical Hacker, Web Designer, and IT Instructor dedicated to navigating the digital landscape with integrity and creativity.
+Hello there! I'm <b>Sharjeel Ali</b>, a passionate <b>Certified Ethical Hacker, Web Designer, and IT Instructor</b> dedicated to navigating the digital landscape with integrity and creativity.
 
 With my background in ethical hacking, I specialize in safeguarding digital systems and networks against cyber threats. My expertise lies in identifying vulnerabilities, conducting penetration tests, and implementing robust security measures to fortify digital infrastructures.
 
